@@ -10,6 +10,7 @@
   background-image: url("https://www.utexas.edu/sites/default/files/styles/utexas_hero_photo_image/public/hero-photos/maincampus_hero.jpg?itok=ZkKrhFki");
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 0.5; 
   background-position: center; 
 
   @include large {
@@ -28,7 +29,7 @@
 .project-tagline {
   margin-bottom: 1rem;
   font-weight: normal;
-  opacity: 0.5;
+  opacity: 0.9;
 
   @include large {
     font-size: 1.25rem;
@@ -64,7 +65,7 @@ $spacing-unit: 30px !default;
   }
 
   .page-link {
-    color: #000;
+    color: #001cff;
     line-height: $base-line-height;
     text-align: center;
 
