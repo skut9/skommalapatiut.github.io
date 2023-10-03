@@ -4,23 +4,5 @@ docs:
 - title: Home
   url: index.html
 
-- title: Research
-  url: research.html
-
-- title: Publications
-  url: publications.html
-
-- title: Software
-  url: software.html
-  
-- title: Available Projects
-  url: available_projects.html
-  
-- title: Teaching
-  url: teaching.html
-  
-- title: Mentoring
-  url: mentoring.html
-
-- title: Contact
-  url: contact.html
+- title: External Links 
+  url: external_links.html
