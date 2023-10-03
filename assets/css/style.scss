@@ -6,7 +6,7 @@
 .page-header {
   color: #000;
   text-align: center;
-  background-color: #000;
+  background-color: $header-heading-color;
   background-image: url("https://raw.githubusercontent.com/skut9/skommalapatiut.github.io/master/images/background_homo_turb.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -65,7 +65,7 @@ $spacing-unit: 30px !default;
   }
 
   .page-link {
-    color: #001cff;
+    color: $header-heading-color;
     line-height: $base-line-height;
     text-align: center;
 
