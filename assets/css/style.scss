@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #000;
+  color: $header-heading-color;
   text-align: center;
   background-color: $header-heading-color;
   background-image: url("https://raw.githubusercontent.com/skut9/skommalapatiut.github.io/master/images/background_homo_turb.jpg");
